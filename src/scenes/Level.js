@@ -38,7 +38,7 @@ class Level extends Phaser.Scene {
 	create() {
 
 		this.editorCreate();
-		
+		// phaser is good
 	}
 
 	/* END-USER-CODE */
